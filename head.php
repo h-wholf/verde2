@@ -5,6 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1.0 maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="estilos.css">
-    <title>REGISTRO CIVIL DE SANTA MARIA GUADALUPE TECOLA</title>
+    <title>NUEVA IMAGEN --- PARTIDO VERDE</title>
     <script type="text/javascript" src="ocultar.js"></script>
 </head>
