@@ -53,10 +53,10 @@ $rincon = $db->querySingle("SELECT COUNT(*) as count FROM beneficiados WHERE loc
 
 $libertad = $db->querySingle("SELECT COUNT(*) as count FROM beneficiados WHERE localidad = 'LA LIBERTAD TECOLA'");
 
-echo "<center><p class='info'>BENEFICIADOS totales --> <a class='link2'>$total</a></p></center>";
-echo "<br><center><p class='info'>BENEFICIADOS en tecola --><a class='link2'>$tecola</a></p></center>";
-echo "<br><center><p class='info'>BENEFICIADOS en san jose el rincon --> <a class='link2'>$rincon</a></p></center>";
-echo "<br><center><p class='info'>BENEFICIADOS en LA LIBERTAD TECOLA --><a class='link2'>$libertad</a></p></center>";
+echo "<center><p class='info'>BENEFICIADOS totales  <a class='link2'>$total</a></p></center>";
+echo "<br><center><p class='info'>BENEFICIADOS en tecola <a class='link2'>$tecola</a></p></center>";
+echo "<br><center><p class='info'>BENEFICIADOS en san jose el rincon <a class='link2'>$rincon</a></p></center>";
+echo "<br><center><p class='info'>BENEFICIADOS en LA LIBERTAD TECOLA <a class='link2'>$libertad</a></p></center>";
 
 ?>
 </div>
