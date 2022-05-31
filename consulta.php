@@ -71,6 +71,13 @@ include 'head.php';
 
 		</tbody>
 	</table></center>
+	<br>
+	<br>
+	</center>
+<div><center><a class="link2" href="index.php">regresar al inicio</a></center></div>
+		
+	</section>
+</div>
 </body>
 </html>
 
