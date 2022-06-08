@@ -18,12 +18,12 @@ body
   background: #434750;
 }
 
-ul
+.lista
 {
 position: relative;
   transform: skewY(-15deg);
 }
-ul li
+.lista2
 {
   position: relative;
   list-style: none;
@@ -34,7 +34,7 @@ ul li
  
 }
 
-ul li:hover
+.lista2:hover
 {
   transform: traslateX(-50px);
   
