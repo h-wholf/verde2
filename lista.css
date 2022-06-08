@@ -18,9 +18,9 @@ body
   background: #434750;
 }
 
-.lista
+.lista1
 {
-position: relative;
+  position: relative;
   transform: skewY(-15deg);
 }
 .lista2
