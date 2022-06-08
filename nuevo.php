@@ -12,7 +12,7 @@
 			whatsaap</a></li>
 		<li style="--i:6;--clr:#1877f2"> <a href="#"> <span><i class="fa-brands fa-youtube"></i></span>
 			youtube</a></li>	
-		<li style="--i:6;"> <a href="#"> <span></span>
+		
 	
 	
 	
