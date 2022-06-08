@@ -26,7 +26,7 @@ body
     
     
 }
-ul li:hover
+.lista2:hover
 {
     transform: translateX(-50px);
     background: var(--clr);
