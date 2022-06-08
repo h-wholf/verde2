@@ -76,7 +76,7 @@
 </div>
 <CENTER>
 <DIV CLASS="ISO">
-	<UL> 
+	<ul> 
 		<li style="--i:6;--clr:#1877f2"> <a href="#"> <span><i class="fa-brands fa-facebook"></i></span>
 			facebook</a></li>
 			
@@ -90,7 +90,7 @@
 	
 	
 	
-	</UL>
+	</ul>
 	
 	
 	</DIV>
