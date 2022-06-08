@@ -7,14 +7,14 @@ body
     aling-items: center;
     min-height: 100vh;
 }
-ul
+.lista
 {
     position: relative;
     transform: skewY(-15deg);  
     color: white;
 }
 
-ul li
+.lista2
 {
     position: relative;
     list-style: none;
