@@ -1,13 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+
 *
 {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
   
 
 }
-
-
 body
 {
   display: felx;
@@ -17,29 +18,4 @@ body
   background: #434750;
 }
 
-ul
-{
-    position: relative;
-    transform: skewY(-15deg);  
-    color: white;
-}
 
-ul li
-{
-    position: relative;
-    list-style: none;
-    whith: 120px;
-    background: #3e3f46;
-    padding: 15px;
-    transition: 0.5s;
-
-    
-    
-}
-ul li:hover
-{
-    transform: translateX(-50px);
-    background: var(--clr);
-
-
-}
