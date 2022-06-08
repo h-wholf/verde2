@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
 
-body
+*
 {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   box-sizing: border-box;
   font-family: 'Oswald', sans-serif;
   
 
 }
-.cuerpo
+body
 {
-  display: felx;
+  display: flex;
   justify-content: center;
   aling-items: center;
   min-height: 100vh;
