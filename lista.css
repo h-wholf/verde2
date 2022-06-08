@@ -31,6 +31,7 @@ body
   background: #3e3f46;
   padding: 15px;
   transition: 0.5s;
+  z-index: calc(1 * var(--i));
  
 }
 
@@ -39,4 +40,19 @@ body
   transform: translateX(-50px);
   background: var(--clr);
   
+}
+.lista2::before
+{
+  content; "";
+  position: absolute;
+  top: 0;
+  left: -40px;
+  width: 40px;
+  height: 100%;
+  background: #3e3f46;
+  filter: brightness(0.7);
+  transform-origin: rigt;
+  transform: skewY(45deg);
+
+
 }
