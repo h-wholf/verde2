@@ -41,7 +41,7 @@ body
   background: var(--clr);
   
 }
-.lista2::before
+.lista2:before
 {
   content; "";
   position: absolute;
