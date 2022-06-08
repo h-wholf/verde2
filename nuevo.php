@@ -8,8 +8,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="lista.css">
 </head>
-<body class="cuerpo">
-
+<body>
+<div class="cuerpo">
 	<ul> 
 		<li style="--i:6;--clr:#1877f2"> <a href="#"> <span><i class="fa-brands fa-facebook"></i></span>
 			facebook</a></li>
@@ -25,6 +25,7 @@
 	
 	
 	</ul>
+	</div>
 	</body>
 	
 	</html>
