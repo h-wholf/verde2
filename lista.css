@@ -36,6 +36,6 @@ body
 
 .lista2:hover
 {
-  transform: traslateX(-50px);
+  transform: translateX(-50px);
   
 }
