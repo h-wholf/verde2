@@ -25,9 +25,6 @@
 	
 	
 	</ul>
-	
-	
-	</div>
 	</body>
 	
 	</html>
