@@ -2,10 +2,7 @@ body
 {
     color: rgb(238,238,238);
     background-color: rgb(7,24,42);
-    display: flex;
-    justify-content: center;
-    aling-items: center;
-    min-height: 100vh;
+    
 }
 .lista
 {
